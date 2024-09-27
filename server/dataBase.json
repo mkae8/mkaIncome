@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "userId": "077b5af2-3813-4304-a85c-f78dc95c7d33",
+      "username": "Mkae",
+      "email": "mka@gmail.com ",
+      "password": "$2b$10$fzWAQMVw8DxWxIbX8Nwc3.OlGmPgC9u72G4kUwPcSxXKHMIUyr5PW",
+      "createdAt": "2024-09-27T03:15:12.012Z",
+      "updatedAt": "2024-09-27T03:15:12.012Z"
+    }
+  ]
+}
