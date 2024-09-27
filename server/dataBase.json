@@ -7,6 +7,14 @@
       "password": "$2b$10$fzWAQMVw8DxWxIbX8Nwc3.OlGmPgC9u72G4kUwPcSxXKHMIUyr5PW",
       "createdAt": "2024-09-27T03:15:12.012Z",
       "updatedAt": "2024-09-27T03:15:12.012Z"
+    },
+    {
+      "userId": "e6e54000-83ea-4e69-8439-d91b398ead67",
+      "username": "baldan",
+      "email": "baldka@gmail.com ",
+      "password": "$2b$10$cFiYwHYmBzneaR6aniRokOY3Q/qoao/L//FHMWxyqOUVJga77GXS2",
+      "createdAt": "2024-09-27T11:57:06.664Z",
+      "updatedAt": "2024-09-27T11:57:06.664Z"
     }
   ]
 }
